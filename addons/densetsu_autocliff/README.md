@@ -1,4 +1,4 @@
-# Densetsu Autocliff (WIP)
+# Autocliff for Godot
 
 Editor-assisted cliff mesh placement for terrain/map authoring.
 
@@ -17,7 +17,7 @@ Editor-assisted cliff mesh placement for terrain/map authoring.
 
 ## Usage
 
-1. Enable plugin: `Project > Project Settings > Plugins > Densetsu Autocliff`.
+1. Enable plugin: `Project > Project Settings > Plugins > Autocliff`.
 2. Open the **Autocliff** dock (right dock).
 3. Select your target surface root in the Scene tree and click **Use Selected**.
 4. Add cliff meshes:

@@ -1,4 +1,4 @@
-# Densetsu Autocliff
+# Autocliff for Godot
 
 Standalone Godot editor plugin for scattering cliff meshes (primarily) onto arbitrary scene surfaces. It can also be used to scatter plants or any kind of mesh you desire.
 
@@ -34,4 +34,4 @@ When the target is any other `Node3D`, the plugin falls back to generic collider
 This plugin is meant for fast environment dressing and iteration, especially for cliffs, rock formations, and plant clusters where hand placement is too slow.
 
 ## Scope
-This public version is project-agnostic. It does not rely on the original Densetsu project structure or private tooling.
+This public version is project-agnostic. It does not rely on a private project structure or private tooling.

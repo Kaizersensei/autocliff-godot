@@ -193,7 +193,7 @@ func _build_ui() -> void:
 	scroll.add_child(root)
 
 	var title: Label = Label.new()
-	title.text = "Densetsu Autocliff"
+	title.text = "Autocliff"
 	title.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
 	root.add_child(title)
 
